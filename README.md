@@ -1,11 +1,21 @@
-# 1. 팀 소개
+# 32기 2차 프로젝트
 
-팀명 : 댕캉스(Daengcance)
+# 팀 소개
+
+## 팀명 : 댕캉스(Daengcance)
+- 펫시터 서비스를 제공하는 "펫플래닛" 사이트 모티브로 한 프로젝트
+- 전체적인 UI적 틀과 기획부분만 클론
 <br>
-팀원 :
-BE 최지수, 윤진섭
-FE 이수광(PM), 유동혁, 이현정, 장형원
+
+## 팀원 및 프로젝트 기간
+- BE 최지수, 윤진섭
+- FE 이수광, 유동혁, 이현정, 장형원
+- 프로젝트 기간 : 2022.05.09 (월) ~ 2022.05.20 (금) (2주)
 <br><br>
+## 기술 스택
+
+- Back-End : <img src="https://user-images.githubusercontent.com/78680486/158049033-6a7836e9-da4a-4333-8f80-ea7972b2f922.svg"> <img src="https://user-images.githubusercontent.com/78680486/158049035-1b7122ad-cc99-477c-8d94-98ce48944d92.svg"> <img src= "https://user-images.githubusercontent.com/78680486/158049032-6368747a-c353-491c-8d22-63cdc1c525b1.svg"> <img src= "https://user-images.githubusercontent.com/78680486/158049036-4c7371ab-443d-4db9-baa0-6877a4528034.svg" >
+- Front-End : <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 
 # 2. 서비스 소개
 
