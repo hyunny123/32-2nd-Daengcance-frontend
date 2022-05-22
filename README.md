@@ -89,7 +89,6 @@
 - 삼항식을 써서 로그인이 되었을경우 로그아웃이 뜨게 , 로그아웃을 클릭할 경우 removeItem 되어 다시 로그인 버튼으로 돌아온다.
 - URI을 받아오는 태그를 a tag로 사용하다보니 로그아웃 tag도 a tag를 사용했는데 로그아웃을 하자마자 바로 로그인이 되는 상황이 발생. a 태그는 브라우저의 주소를 이동하며 페이지 자체를 새로고침한다는 것을 알고 div tag로 바꾸니 에러 해결.
  
-
 6.Footer
 - styled-components 사용해서 구현
 - Login/Logout 기능 넣어놓음.
@@ -114,10 +113,10 @@
 ![디테일페이지](https://velog.velcdn.com/images/hazel123/post/648c25f6-0e88-4e7d-8178-c285c785a566/image.gif)
 
 리뷰페이지
-![](https://velog.velcdn.com/images/hazel123/post/18e52cda-d69c-4dc6-8ae4-12ebd54782a4/image.gif)
+![리뷰](https://velog.velcdn.com/images/hazel123/post/18e52cda-d69c-4dc6-8ae4-12ebd54782a4/image.gif)
 
 다크모드 기능
-![](https://velog.velcdn.com/images/hazel123/post/b358db3d-90a2-4205-a093-d712e975d7e8/image.gif)
+![다크모드](https://velog.velcdn.com/images/hazel123/post/b358db3d-90a2-4205-a093-d712e975d7e8/image.gif)
 
 
 
